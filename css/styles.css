@@ -45,3 +45,7 @@ section{
     gap: 16px;
     margin-top: 16px;
 }
+
+footer{
+    grid-column: span 5;
+}
