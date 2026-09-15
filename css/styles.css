@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background: white;
+    color: black;
+    display: grid;
+    grid-template: auto / 1fr 1fr 1fr 1fr 1fr;
+    max-width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+}
