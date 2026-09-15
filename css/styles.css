@@ -13,3 +13,8 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+
+nav{
+    border: solid black 1px;
+    grid-column: span 5;
+}
