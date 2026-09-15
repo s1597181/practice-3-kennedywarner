@@ -20,3 +20,18 @@ nav{
     border: solid black 1px;
     grid-column: span 5;
 }
+
+header{
+    grid-column: span5;
+    display: grid;
+    grid-template: auto / 2fr 3fr;
+}
+
+img{
+    width:100px;
+    height: auto;
+}
+
+aside{
+    grid-column: span 1;
+}
