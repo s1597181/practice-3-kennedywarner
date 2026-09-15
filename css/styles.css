@@ -67,3 +67,31 @@ h3{
 p{
     margin-bottom: 8px;
 }
+
+frame{
+    border:6px solid black;
+}
+
+.bg-red{
+    background: red;
+    color: white;
+}
+
+.bg-blue{
+    background: blue;
+    color: white;
+}
+
+.bg-yellow{
+    background: yellow;
+    color: black;
+}
+
+.bg-white{
+    background: white;
+    color: black;
+}
+
+.pad{
+    padding: 16px;
+}
